@@ -1,0 +1,7 @@
+[
+  {
+    "name": "nginx-container",
+    "imageUri": "bar/commit:latest public.ecr.aws/f1u8q3k9/bar/commit:latest"
+  }
+]
+
